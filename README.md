@@ -1,4 +1,5 @@
-[![An image of @ahugheseg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahugheseg)](https://holopin.io/@ahugheseg)
+<!-- [![An image of @ahugheseg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahugheseg)](https://holopin.io/@ahugheseg)
+-->
 
 <!--
 **A-Hughes-EG/A-Hughes-EG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
